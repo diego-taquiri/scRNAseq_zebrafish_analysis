@@ -1,0 +1,10 @@
+data-explore
+data-mock
+z.others
+
+data/GSM*
+seurat
+
+notebooks/2_clustering.ipynb
+notebooks/1_preprocessing_quality_control.ipynb
+notebooks/all_analysis_copy.ipynb
