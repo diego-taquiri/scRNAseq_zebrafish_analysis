@@ -18,4 +18,9 @@ dependencies:
   - r-here=1.0.1
   - r-seurat
   - genomedk::r-sccustomize
+  - leidenalg
+  - conda-forge::r-harmony
+  - bioconda::bioconductor-glmgampoi
+  - bioconda::r-presto
+  - bioconda::bioconductor-enhancedvolcanos
   
